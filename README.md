@@ -6,11 +6,13 @@
 
 A 2019-es magyarországi EP választásokon a pártok által elért eredményeket elemeztem különböző mutatók függvényében. 
 
-**Az elemzés eredményeit grafikonok és interaktív korrelációs táblák formájában
-a [valasztasi_adatok_elemzese Jupyter jegyzetfüzet](valasztasi_adatok_elemzese.ipynb) tartalmazza.**
-
+**Az elemzés a következő linken tekinthető meg:**
+**<https://nbviewer.jupyter.org/github/gyarmathy/EPvalasztasHU2019/blob/master/valasztasi_adatok_elemzese.ipynb>**
 
 ## Felhasznált adatok
+ 
+Az elemzés eredményeit grafikonok és interaktív korrelációs táblák formájában
+a [valasztasi_adatok_elemzese Jupyter jegyzetfüzet](valasztasi_adatok_elemzese.ipynb) tartalmazza.
  
 Az elemzéshez csak szabadon hozzáférhető adatokat használtam (az adatok forrásainak linkjét a fenti jegyzetfüzet tartalmazza, 
 az eredeti adatokat pedig a [datain](datain) könyvtár):
